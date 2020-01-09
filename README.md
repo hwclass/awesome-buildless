@@ -3,6 +3,7 @@
 ### Articles
 - [Going Buildless](https://dev.to/open-wc/on-the-bleeding-edge-3cb8)
 - [A Future Without Webpack](https://dev.to/pika/a-future-without-webpack-ago)
+- [Don't Build That App!](https://formidable.com/blog/2019/no-build-step/)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
