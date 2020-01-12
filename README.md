@@ -14,3 +14,4 @@
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
+- [es-react](https://github.com/lukejacksonn/es-react)
