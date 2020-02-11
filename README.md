@@ -13,6 +13,7 @@
 
 ### Tools & Platforms
 - [Pika](pika.dev)
+- [Snowpack](snowpack.dev)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
