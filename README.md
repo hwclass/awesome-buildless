@@ -33,4 +33,4 @@
 - [es-react](https://github.com/lukejacksonn/es-react)
 
 ### Videos
-- [Don't build that app!](https://www.youtube.com/watch?v=mVjZQrsXBQE) _by  [Luke Jackson](https://twitter.com/lukejacksonn)_
+- [Don't build that app!](https://www.youtube.com/watch?v=mVjZQrsXBQE)
