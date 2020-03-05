@@ -31,3 +31,6 @@
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
 - [es-react](https://github.com/lukejacksonn/es-react)
+
+### Videos
+- [Don't build that app!](https://www.youtube.com/watch?v=mVjZQrsXBQE) _by  [Luke Jackson](https://twitter.com/lukejacksonn)_
