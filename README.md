@@ -29,8 +29,8 @@
 - [Snowpack with React](http://ryanlanciaux.com/blog/2020/01/14/snowpack-with-react/)
 
 ### Tools & Platforms
-- [Pika](pika.dev)
-- [Snowpack](snowpack.dev)
+- [Pika](https://www.pika.dev/)
+- [Snowpack](https://www.snowpack.dev/)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
