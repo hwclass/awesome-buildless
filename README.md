@@ -17,6 +17,8 @@
 - [Snowpack Releases 1.0](https://www.infoq.com/news/2020/01/snowpack-pika-bundler-devops/)
 - [Tree-Shaking Without a Bundler? Here's How Snowpack Does It!](https://dev.to/pika/tree-shaking-without-a-bundler-here-s-how-snowpack-does-it-1fai)
 - [Snowpack vs. webpack](https://blog.logrocket.com/snowpack-vs-webpack/)
+- [Announcing a new --experimental-modules](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
+- [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers!](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
@@ -31,15 +33,18 @@
 ### Tools & Platforms
 - [Pika](https://www.pika.dev/)
 - [Snowpack](https://www.snowpack.dev/)
+- [moduloze](https://github.com/getify/moduloze/)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
 - [es-react](https://github.com/lukejacksonn/es-react)
+- [is-esm](https://github.com/mgechev/is-esm)
 
 ### Videos
 - [Don't build that app!](https://www.youtube.com/watch?v=mVjZQrsXBQE)
 - [How to Setup a Vue App Without a Bundler Using Snowpack](https://www.youtube.com/watch?v=zjhP1zSj5oo)
 - [Pika Web: a new way to build Web Applications. Now renamed to Snowpack!](https://www.youtube.com/watch?v=bCsS-M4a1rg)
+- [Snowpack and our bundle less future with @FredKSchott](https://www.pscp.tv/w/1rmGPAYvWyyJN)
 
 ### Presentations & Talks
 - [SnowPack: Building Web applications with Less tooling](https://hasgeek.com/jsfoo/2020-chennai/proposals/snowpack-building-web-applications-with-less-tooli-nMR3NAX66wWv3cw8yGzXgi)
