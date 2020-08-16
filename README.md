@@ -19,6 +19,7 @@
 - [Snowpack vs. webpack](https://blog.logrocket.com/snowpack-vs-webpack/)
 - [Announcing a new --experimental-modules](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
 - [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers!](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)
+- [https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/](ES modules: A cartoon deep-dive)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
@@ -33,12 +34,14 @@
 ### Tools & Platforms
 - [Pika](https://www.pika.dev/)
 - [Snowpack](https://www.snowpack.dev/)
+- [create-snowpack-app](https://github.com/pikapkg/snowpack/tree/master/packages/create-snowpack-app)
 - [moduloze](https://github.com/getify/moduloze/)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
 - [es-react](https://github.com/lukejacksonn/es-react)
 - [is-esm](https://github.com/mgechev/is-esm)
+- [pikapkg/react](https://github.com/pikapkg/react)
 
 ### Videos
 - [Don't build that app!](https://www.youtube.com/watch?v=mVjZQrsXBQE)
