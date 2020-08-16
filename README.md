@@ -33,12 +33,14 @@
 ### Tools & Platforms
 - [Pika](https://www.pika.dev/)
 - [Snowpack](https://www.snowpack.dev/)
+- [create-snowpack-app](https://github.com/pikapkg/snowpack/tree/master/packages/create-snowpack-app)
 - [moduloze](https://github.com/getify/moduloze/)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
 - [es-react](https://github.com/lukejacksonn/es-react)
 - [is-esm](https://github.com/mgechev/is-esm)
+- [pikapkg/react](https://github.com/pikapkg/react)
 
 ### Videos
 - [Don't build that app!](https://www.youtube.com/watch?v=mVjZQrsXBQE)
