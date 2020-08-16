@@ -19,7 +19,7 @@
 - [Snowpack vs. webpack](https://blog.logrocket.com/snowpack-vs-webpack/)
 - [Announcing a new --experimental-modules](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
 - [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers!](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)
-- [https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/](ES modules: A cartoon deep-dive)
+- [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
