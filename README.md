@@ -20,6 +20,9 @@
 - [Announcing a new --experimental-modules](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
 - [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers!](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- [Why you should start using Snowpack](https://medium.com/javascript-in-plain-english/why-you-should-start-to-use-snowpack-86a9cf999800)
+- [Snowpack + Rollup : A match made in heaven](https://dev.to/rajasegar/snowpack-rollup-a-match-made-in-heaven-22od)
+- [Introducing: Pika CDN + Deno](https://dev.to/pika/introducing-pika-cdn-deno-p8b)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
