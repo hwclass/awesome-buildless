@@ -39,6 +39,7 @@
 - [Snowpack](https://www.snowpack.dev/)
 - [create-snowpack-app](https://github.com/pikapkg/snowpack/tree/master/packages/create-snowpack-app)
 - [moduloze](https://github.com/getify/moduloze/)
+- [WMR](https://github.com/preactjs/wmr)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
