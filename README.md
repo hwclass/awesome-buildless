@@ -23,6 +23,9 @@
 - [Why you should start using Snowpack](https://medium.com/javascript-in-plain-english/why-you-should-start-to-use-snowpack-86a9cf999800)
 - [Snowpack + Rollup : A match made in heaven](https://dev.to/rajasegar/snowpack-rollup-a-match-made-in-heaven-22od)
 - [Introducing: Pika CDN + Deno](https://dev.to/pika/introducing-pika-cdn-deno-p8b)
+- [A Real “Buildless” Modern Web Development Workflow? Oh Yes!](https://www.spicyweb.dev/buildless-modern-development-workflows-are-this-close-to-a-reality/)
+- [Using npm packages with CDNs (Deno)](https://deno.land/manual@v1.28.3/node/cdns)
+- [RFC: fight for simplicity with regards to Open Web Components project future](https://gist.github.com/web-padawan/970b47b51bc9e4f774c28e14574cad51)
 
 ### Tutorials
 - [Developing without a Build (1)](https://dev.to/open-wc/developing-without-a-build-1-introduction-26ao)
@@ -33,6 +36,7 @@
 - [Front End JS Development Without](https://medium.com/better-programming/bye-bye-transpile-3e4413f7f590)
 - [How to Build a PWA without a Build Step](https://dev.to/wes566/how-to-build-a-pwa-without-a-build-step-dng)
 - [Snowpack with React](http://ryanlanciaux.com/blog/2020/01/14/snowpack-with-react/)
+- [Getting Started: Buildless Development](https://apolloelements.dev/guides/getting-started/buildless-development/)
 
 ### Tools & Platforms
 - [Pika](https://www.pika.dev/)
@@ -41,6 +45,12 @@
 - [moduloze](https://github.com/getify/moduloze/)
 - [Vite](https://vitejs.dev/)
 - [WMR](https://github.com/preactjs/wmr)
+- [Deno](https://deno.land/)
+- [esm.sh](https://esm.sh/)
+- [Deno Fresh](https://fresh.deno.dev/)
+- [Ruch](https://ruck.tech/)
+- [Ficus](https://www.ficusjs.org/)
+- [buildless-deno-react-ssr](https://github.com/eserozvataf/buildless-deno-react-ssr)
 
 ### Packages & Libraries
 - [es-dev-server](https://www.npmjs.com/package/es-dev-server)
